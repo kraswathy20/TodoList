@@ -1,0 +1,21 @@
+@media(max-width:2000px){
+    body{
+        background-color: #277da1;
+        color: white;
+        font-size: 36px;
+    }
+}
+@media(max-width:1200px){
+    body{
+        background-color: darkcyan;
+        color: white;
+        font-size: 30px;
+    }
+}
+@media(max-width:800px){
+    body{
+        background-color: #43aa8b;
+        color: white;
+        font-size: 25px;
+    }
+}
